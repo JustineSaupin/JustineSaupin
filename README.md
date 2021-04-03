@@ -9,5 +9,5 @@ After working for 10 years on Retail world, I joined Le Wagon coding bootcamp to
 
 
   * 🔭 I’m currently working on Gare-auCovid (online game so 2020)!
-  * 🌱 Work in progress on -> React
+  * 🌱 Work in progress -> new website for Pauline C Coach
   * 📫 How to reach me: sau.justine@gmail.com
